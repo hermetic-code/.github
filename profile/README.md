@@ -19,5 +19,5 @@ We believe that true data privacy requires computational sovereignty. Our system
 * **[Sovereign Core]** - Long-term architectural frameworks designed for public sector and municipal data containment (Research & Prototyping).
 
 ---
-*Contact & Security Enquiries: joyalgeorgekj@gmail.com*
+*Contact & Security Enquiries: codehermetic@gmail.com*
 <!-- security@hermetic.dev -->
