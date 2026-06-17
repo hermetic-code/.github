@@ -14,9 +14,10 @@ We believe that true data privacy requires computational sovereignty. Our system
 
 ## Active Projects
 
-* **[Senku](https://github.com/hermetic-code/store)** - An open-source knowledge store mapping humanity's entire technological dependency tree.
-* **[Internal Workspace Suite]** - Privacy-first operational infrastructure for local business systems (Active Design Phase).
+* **[Senku.io](https://github.com/senku-io)** - An open-source knowledge store mapping humanity's entire technological dependency tree (Ongoing).
+* **[Pending]** - Privacy-first operational infrastructure for local business systems (Active Design Phase).
 * **[Sovereign Core]** - Long-term architectural frameworks designed for public sector and municipal data containment (Research & Prototyping).
 
 ---
-*Contact & Security Enquiries: security@hermetic.dev*
+*Contact & Security Enquiries: joyalgeorgekj@gmail.com*
+<!-- security@hermetic.dev -->
